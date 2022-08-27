@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\bin\Debug\TetrisFinal.exe.config
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\bin\Debug\TetrisFinal.exe
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\bin\Debug\TetrisFinal.pdb
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\obj\Debug\TetrisFinal1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\obj\Debug\TetrisFinal1.Form1.resources
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\obj\Debug\TetrisFinal.Properties.Resources.resources
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\obj\Debug\TetrisFinal1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\obj\Debug\TetrisFinal.exe
+C:\Users\User\Desktop\TetrisFinal1\TetrisFinal\obj\Debug\TetrisFinal.pdb
